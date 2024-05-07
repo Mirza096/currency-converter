@@ -1,7 +1,7 @@
 {
   "name": "currency-converter",
   "version": "1.0.0",
-  "description": "",
+  "description": "\"# currency-converter\"",
   "main": "index.js",
   "type": "module",
   "scripts": {
