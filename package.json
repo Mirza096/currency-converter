@@ -1,6 +1,6 @@
 {
-  "name": "currency-converter",
-  "version": "1.0.0",
+  "name": "msbkhipk-currency-converter",
+  "version": "1.0.1",
   "description": "\"# currency-converter\"",
   "main": "index.js",
   "type": "module",
